@@ -1,0 +1,1 @@
+A real-time embedded system built on an STM32F446RE that samples analog signals using the ADC, processes data on the microcontroller, and actuates a servo via hardware PWM with UART telemetry for monitoring.
