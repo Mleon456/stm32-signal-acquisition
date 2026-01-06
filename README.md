@@ -35,8 +35,8 @@ This project demonstrates an end-to-end embedded signal acquisition and actuatio
 
 ## Demo
 
-🎥 Video demonstration: https://youtu.be/P8PqJ9iEa18
-🎥 Video demonstration: https://youtu.be/upl2huopSv4
+🎥 LED PWM dimming demo: https://youtu.be/P8PqJ9iEa18
+🎥 Joystick-controlled servo demo: https://youtu.be/upl2huopSv4
 
 ---
 
